@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Youtube Player</string>
+    <!-- Main Activity -->
+    <string name="buttonPlaySingle">Play a single video</string>
+    <string name="buttonStandalone">Standalone Sub Menu</string>
+    <!-- Standalone Activity -->
+    <string name="buttonPlayVideo">Play Video</string>
+    <string name="buttonPlayPlaylist">Play Playlist</string>
+</resources>
